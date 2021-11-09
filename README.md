@@ -1,7 +1,8 @@
 # Repository for cipher python package for HW7
 ## Installation
-$ pip install cipher_bo2297
+$ pip install cipher_xs2441
 ## Usage
+
 ## Contributing 
 Interested in contributing? Check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
 ## License
