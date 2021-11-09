@@ -1,0 +1,37 @@
+:py:mod:`cipher_xs2441.cipher_xs2441`
+=====================================
+
+.. py:module:: cipher_xs2441.cipher_xs2441
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   cipher_xs2441.cipher_xs2441.cipher
+
+
+
+.. py:function:: cipher(text, shift, encrypt=True)
+
+   Encypt text input using a basic (Caesar cipher) by shifting each alphabet left or right by a certain number
+   :param text: Text to be encrypted
+   :type text: str
+   :param shift: Number of alphabet positions the text will be shifted
+   :type shift: int
+   :param encrypt: True by default
+   :type encrypt: bool
+   :param Returns:
+   :type Returns: encypted (or decrypted) string
+   :param -------:
+   :param Examples:
+   :param >>> cipher(today:
+   :param 1):
+   :param upebz:
+
+
