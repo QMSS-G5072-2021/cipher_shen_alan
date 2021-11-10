@@ -1,6 +1,6 @@
 # cipher_xs2441
 
-Cipher package for MDS2021
+This is Alan Shen's python package for MDS2021
 
 ## Installation
 
