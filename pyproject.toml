@@ -5,6 +5,9 @@ description = "Cipher package for MDS2021"
 authors = ["Alan Shen"]
 license = "MIT"
 readme = "README.md"
+documentation = 'https://qmsspkg.readthedocs.io'
+homepage = "https://github.com/QMSS-G5072-2021/cipher_shen_alan"
+repository = "https://github.com/QMSS-G5072-2021/cipher_shen_alan"
 
 [tool.poetry.dependencies]
 python = "^3.9"
